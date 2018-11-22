@@ -2,5 +2,5 @@ name := "webapp-curriculum-2001-1"
 
 version := "1.0"
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.7"
 
